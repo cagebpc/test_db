@@ -25,14 +25,6 @@
 		left: 13px;
 	}
 	
-	/*#submit{
-	position: absolute;
-    left: 8%;
-    background-color: antiquewhite;
-    border-radius: 10px;
-    width: 80px;
-    height: 25px;
-	}*/	
 
 
 	
